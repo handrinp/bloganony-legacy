@@ -1,0 +1,25 @@
+#editArea h2 {
+  text-align: center;
+  font-size: 2em;
+  margin: 15px 0 15px;
+}
+
+#editArea textArea {
+  min-height: 300px;
+  font-family: monospace;
+  background-color: #222;
+  color: #ddd;
+  width: 90%;
+}
+
+.deletebtn {
+  border: 1px solid #000;
+  font-size: 1em;
+  width: 30px;
+  height: 30px;
+  background-color: #FF5252;
+  color: #FFF;
+  display: block;
+  cursor: pointer;
+  margin-left: 15px;
+}

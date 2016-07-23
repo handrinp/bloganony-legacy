@@ -1,0 +1,90 @@
+@media only screen and (min-width: 1200px) {
+
+#wholePage {
+  padding-bottom: 30px;
+}
+
+#header {
+  width: 100%;
+  height: 200px;
+}
+
+#header h1 {
+  font-size: 48pt;
+  margin-left: 80px;
+  padding-top: 40px;
+}
+
+#header h2 {
+  font-size: 16pt;
+  margin-left: 160px;
+  margin-top: 20px;
+}
+
+#header img {
+  margin-right: 20px;
+  cursor: pointer;
+}
+
+#postButtonMobile {
+  display: none;
+}
+
+#postArea h3 {
+  font-size: 2em;
+}
+
+.btn {
+  font-size: 2em;
+  width: 200px;
+  height: 50px;
+}
+
+#mainBody h2 {
+  margin: 10px 30px;
+  font-size: 2.5em;
+}
+
+#mainBody h3 {
+  margin: 10px 30px;
+  font-size: 2em;
+}
+
+#mainBody h4 {
+  margin-left: 30px;
+  font-size: 1.5em;
+}
+
+#mainBody p {
+  margin: 15px 30px;
+  font-size: 1.2em;
+}
+
+.postImage {
+  margin-left: 60px;
+  max-width: 500px;
+  max-height: 500px;
+}
+
+.postReply {
+  font-size: 1.2em;
+  margin-left: 30px;
+}
+
+#mainBody .comment {
+  margin-left: 60px;
+}
+
+#footer {
+  margin-top: 20px;
+  height: 40px;
+  line-height: 40px;
+}
+
+#footer p {
+  margin-right: 30px;
+  text-align: right;
+  font-size: 1em;
+}
+
+}
